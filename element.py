@@ -49,14 +49,3 @@ class Compound:
             mass += int(round(i['element'].atomic_mass)) * int(i['index'])
 
         return mass
-    
-print(Compound([
-    {
-        'element': Element.getElement('H'),
-        'index': '2'
-    },
-    {
-        'element': Element.getElement('O'),
-        'index': 1
-    }
-]).getMolarMass())
