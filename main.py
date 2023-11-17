@@ -2,7 +2,6 @@ import chemlib
 from typing import Literal
 from numpy import round
 from sys import exit as sysexit
-import assembly.errorcodes
 
 def main(action: Literal['mass_relative', 'molecular_mass', 'atomic_mass'], **kwargs) -> float | int | str:
     
@@ -54,9 +53,9 @@ def asking() -> float | int | str:
         return main('mass_relative', element = element, formula = formula)
     
     elif action == '0':
-        sysexit(assembly.errorcodes.encode_str('exit'))
+        sysexit()
     
     else:
-        sysexit(assembly.errorcodes.encode_str('wrongcode'))
+        sysexit()
     
 print(asking())

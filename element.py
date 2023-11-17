@@ -1,12 +1,11 @@
 import json
 from typing import Literal
 from numpy import round
+from chemlib.parse import parse_formula
 
 ELEMENTS_FILENAME = 'elements.json'
 with open(ELEMENTS_FILENAME, 'r') as file:
     _elements_list = json.load(file)
-
-
 
 class Element:
     '''
@@ -49,12 +48,24 @@ class Element:
     
 class Compound:
     '''
-    Класс химического соединения. Метод получения ещё не дописан.
+    Класс химического соединения. Метод получения по формуле - ``getCompound``.
     '''
-    def __init__(self, elements: tuple[dict[Element, int | float]]) -> None:
-        self.elements = elements
+    def __init__(self, elements: dict[str: int]) -> None:
+        def __transform__(elems: dict) -> list:
+            elem_list = list(elems.keys())
+            index_list = list(elems.values())
+            out = []
 
-    def getMolarMass(self):
+            assert len(elem_list) == len(index_list)
+
+            for i in range(len(elem_list)):
+                out.append([elem_list[i], index_list[i]])
+
+            return out
+
+        self.elements = __transform__(elements)
+
+    def getMolarMass(self) -> int:
         mass = 0
 
         for i in self.elements:
@@ -62,8 +73,8 @@ class Compound:
 
         return mass
     
-    def getCompound() -> "Compound":
+    def getCompound(formula: str) -> "Compound":
         '''
-        Не готово.
+        Возвращает объект ``Compound`` по формуле.
         '''
-        ...
+        return Compound(parse_formula(formula))
