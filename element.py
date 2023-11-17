@@ -1,5 +1,6 @@
 import json
 from typing import Literal
+from numpy import round
 
 ELEMENTS_FILENAME = 'elements.json'
 with open(ELEMENTS_FILENAME, 'r') as file:
@@ -25,7 +26,7 @@ class Element:
         self.group = group
         self.subgroup = subgroup
 
-    def getElement(self, literal: str):
+    def getElement(literal: str):
         element = _elements_list[literal]
 
         return Element(
@@ -36,3 +37,26 @@ class Element:
             element['group'],
             element['subgroup']
         )
+    
+class Compound:
+    def __init__(self, elements: tuple[dict[Element, int | float]]) -> None:
+        self.elements = elements
+
+    def getMolarMass(self):
+        mass = 0
+
+        for i in self.elements:
+            mass += int(round(i['element'].atomic_mass)) * int(i['index'])
+
+        return mass
+    
+print(Compound([
+    {
+        'element': Element.getElement('H'),
+        'index': '2'
+    },
+    {
+        'element': Element.getElement('O'),
+        'index': 1
+    }
+]).getMolarMass())
