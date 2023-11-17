@@ -51,7 +51,7 @@ class Compound:
     Класс химического соединения. Метод получения по формуле - ``getCompound``.
     '''
     def __init__(self, elements: dict[str: int]) -> None:
-        def __transform__(elems: dict) -> list:
+        def __transform_to_elements__(elems: dict) -> list:
             elem_list = list(elems.keys())
             index_list = list(elems.values())
             out = []
@@ -63,7 +63,7 @@ class Compound:
 
             return out
 
-        self.elements = __transform__(elements)
+        self.elements: list[Element, int] = __transform_to_elements__(elements)
 
     def getMolarMass(self) -> int:
         mass = 0
