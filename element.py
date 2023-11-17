@@ -9,6 +9,11 @@ with open(ELEMENTS_FILENAME, 'r') as file:
 
 
 class Element:
+    '''
+    Класс элемента.
+    Экземпляр можно получить методом класса ``getElement()``.
+    '''
+
     def __init__(
             self, 
             literal: str,
@@ -26,7 +31,11 @@ class Element:
         self.group = group
         self.subgroup = subgroup
 
-    def getElement(literal: str):
+    def getElement(literal: str) -> "Element":
+        '''
+        Возвращает объект класса ``Element``.
+        Принимает латинские символы элемента как аргумент.
+        '''
         element = _elements_list[literal]
 
         return Element(
@@ -39,6 +48,9 @@ class Element:
         )
     
 class Compound:
+    '''
+    Класс химического соединения. Метод получения ещё не дописан.
+    '''
     def __init__(self, elements: tuple[dict[Element, int | float]]) -> None:
         self.elements = elements
 
@@ -49,3 +61,9 @@ class Compound:
             mass += int(round(i['element'].atomic_mass)) * int(i['index'])
 
         return mass
+    
+    def getCompound() -> "Compound":
+        '''
+        Не готово.
+        '''
+        ...
