@@ -66,7 +66,7 @@ class Compound:
         self.elementsDicted = elements
         self.elementsTupled: list[Element, int] = __transform_to_elements__(elements)
 
-    def getMolarMass(self) -> int:
+    def getMolecularMass(self) -> int:
         mass = 0
         for i in self.elementsTupled:
             mass += Element.getElement(i[0]).atomic_mass * i[1]
@@ -84,4 +84,4 @@ class Compound:
         Возвращает массовую долю элемента в соединении
         '''
 
-        return float(round((Element.getElement(element_lit).atomic_mass * self.elementsDicted[element_lit]) / self.getMolarMass(), 4))
+        return float(round((Element.getElement(element_lit).atomic_mass * self.elementsDicted[element_lit]) / self.getMolecularMass(), 4))
