@@ -7,13 +7,490 @@
         "group": 1,
         "subgroup": "A"
     },
+    "He": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 4.0026,
+        "atomic_number": 2,
+        "period": 1,
+        "virtualGroup": null,
+        "group": 18,
+        "subgroup": "A"
+    },
+    "Li": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 6.94,
+        "atomic_number": 3,
+        "period": 2,
+        "virtualGroup": null,
+        "group": 1,
+        "subgroup": "A"
+    },
+    "Be": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 9.0122,
+        "atomic_number": 4,
+        "period": 2,
+        "virtualGroup": null,
+        "group": 2,
+        "subgroup": "A"
+    },
+    "B": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 10.81,
+        "atomic_number": 5,
+        "period": 2,
+        "virtualGroup": null,
+        "group": 13,
+        "subgroup": "A"
+    },
+    "C": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 12.011,
+        "atomic_number": 6,
+        "period": 2,
+        "virtualGroup": null,
+        "group": 14,
+        "subgroup": "A"
+    },
+    "N": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 14.007,
+        "atomic_number": 7,
+        "period": 2,
+        "virtualGroup": null,
+        "group": 15,
+        "subgroup": "A"
+    },
     "O": {
         "__comment": "TO_FIX",
-        "atomic_mass": 15.9,
+        "atomic_mass": 15.999,
         "atomic_number": 8,
         "period": 2,
         "virtualGroup": null,
+        "group": 16,
+        "subgroup": "A"
+    },
+    "F": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 18.998,
+        "atomic_number": 9,
+        "period": 2,
+        "virtualGroup": null,
+        "group": 17,
+        "subgroup": "A"
+    },
+    "Ne": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 20.1797,
+        "atomic_number": 10,
+        "period": 2,
+        "virtualGroup": null,
+        "group": 18,
+        "subgroup": "A"
+    },
+    "Na": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 22.98976928,
+        "atomic_number": 11,
+        "period": 3,
+        "virtualGroup": null,
+        "group": 1,
+        "subgroup": "A"
+    },
+    "Mg": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 24.305,
+        "atomic_number": 12,
+        "period": 3,
+        "virtualGroup": null,
+        "group": 2,
+        "subgroup": "A"
+    },
+    "Al": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 26.9815386,
+        "atomic_number": 13,
+        "period": 3,
+        "virtualGroup": null,
+        "group": 13,
+        "subgroup": "A"
+    },
+    "Si": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 28.085,
+        "atomic_number": 14,
+        "period": 3,
+        "virtualGroup": null,
+        "group": 14,
+        "subgroup": "A"
+    },
+    "P": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 30.973761998,
+        "atomic_number": 15,
+        "period": 3,
+        "virtualGroup": null,
+        "group": 15,
+        "subgroup": "A"
+    },
+    "S": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 32.06,
+        "atomic_number": 16,
+        "period": 3,
+        "virtualGroup": null,
+        "group": 16,
+        "subgroup": "A"
+    },
+    "Cl": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 35.45,
+        "atomic_number": 17,
+        "period": 3,
+        "virtualGroup": null,
+        "group": 17,
+        "subgroup": "A"
+    },
+    "Ar": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 39.948,
+        "atomic_number": 18,
+        "period": 3,
+        "virtualGroup": null,
+        "group": 18,
+        "subgroup": "A"
+    },
+    "K": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 39.0983,
+        "atomic_number": 19,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 1,
+        "subgroup": "A"
+    },
+    "Ca": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 40.078,
+        "atomic_number": 20,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 2,
+        "subgroup": "A"
+    },
+    "Sc": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 44.955908,
+        "atomic_number": 21,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 3,
+        "subgroup": "B"
+    },
+    "Ti": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 47.867,
+        "atomic_number": 22,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 4,
+        "subgroup": "B"
+    },
+    "V": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 50.9415,
+        "atomic_number": 23,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 5,
+        "subgroup": "B"
+    },
+    "Cr": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 51.9961,
+        "atomic_number": 24,
+        "period": 4,
+        "virtualGroup": null,
         "group": 6,
+        "subgroup": "B"
+    },
+    "Mn": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 54.938044,
+        "atomic_number": 25,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 7,
+        "subgroup": "B"
+    },
+    "Fe": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 55.845,
+        "atomic_number": 26,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 8,
+        "subgroup": "B"
+    },
+    "Ni": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 58.6934,
+        "atomic_number": 28,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 10,
+        "subgroup": "B"
+    },
+    "Cu": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 63.546,
+        "atomic_number": 29,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 11,
+        "subgroup": "B"
+    },
+    "Zn": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 65.38,
+        "atomic_number": 30,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 12,
+        "subgroup": "B"
+    },
+    "Ga": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 69.723,
+        "atomic_number": 31,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 13,
+        "subgroup": "A"
+    },
+    "Ge": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 72.63,
+        "atomic_number": 32,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 14,
+        "subgroup": "A"
+    },
+    "As": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 74.92160,
+        "atomic_number": 33,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 15,
+        "subgroup": "A"
+    },
+    "Se": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 78.96,
+        "atomic_number": 34,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 16,
+        "subgroup": "A"
+    },
+    "Br": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 79.904,
+        "atomic_number": 35,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 17,
+        "subgroup": "A"
+    },
+    "Kr": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 83.798,
+        "atomic_number": 36,
+        "period": 4,
+        "virtualGroup": null,
+        "group": 18,
+        "subgroup": "A"
+    },
+    "Rb": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 85.4678,
+        "atomic_number": 37,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 1,
+        "subgroup": "A"
+    },
+    "Sr": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 87.62,
+        "atomic_number": 38,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 2,
+        "subgroup": "A"
+    },
+    "Y": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 88.90584,
+        "atomic_number": 39,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 3,
+        "subgroup": "B"
+    },
+    "Zr": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 91.224,
+        "atomic_number": 40,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 4,
+        "subgroup": "B"
+    },
+    "Nb": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 92.90637,
+        "atomic_number": 41,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 5,
+        "subgroup": "B"
+    },
+    "Mo": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 95.95,
+        "atomic_number": 42,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 6,
+        "subgroup": "B"
+    },
+    "Tc": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 98,
+        "atomic_number": 43,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 7,
+        "subgroup": "B"
+    },
+    "Ru": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 101.07,
+        "atomic_number": 44,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 8,
+        "subgroup": "B"
+    },
+    "Rh": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 102.90549,
+        "atomic_number": 45,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 9,
+        "subgroup": "B"
+    },
+    "Pd": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 106.42,
+        "atomic_number": 46,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 10,
+        "subgroup": "B"
+    },
+    "Ag": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 107.8682,
+        "atomic_number": 47,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 11,
+        "subgroup": "B"
+    },
+    "Cd": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 112.414,
+        "atomic_number": 48,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 12,
+        "subgroup": "B"
+    },
+    "In": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 114.818,
+        "atomic_number": 49,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 13,
+        "subgroup": "A"
+    },
+    "Sn": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 118.71,
+        "atomic_number": 50,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 14,
+        "subgroup": "A"
+    },
+    "Sb": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 121.76,
+        "atomic_number": 51,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 15,
+        "subgroup": "A"
+    },
+    "Te": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 127.60,
+        "atomic_number": 52,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 16,
+        "subgroup": "A"
+    },
+    "I": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 126.90447,
+        "atomic_number": 53,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 17,
+        "subgroup": "A"
+    },
+    "Xe": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 131.293,
+        "atomic_number": 54,
+        "period": 5,
+        "virtualGroup": null,
+        "group": 18,
+        "subgroup": "A"
+    },
+    "Cs": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 132.90545196,
+        "atomic_number": 55,
+        "period": 6,
+        "virtualGroup": null,
+        "group": 1,
+        "subgroup": "A"
+    },
+    "Ba": {
+        "__comment": "TO_FIX",
+        "atomic_mass": 137.327,
+        "atomic_number": 56,
+        "period": 6,
+        "virtualGroup": null,
+        "group": 2,
         "subgroup": "A"
     }
 }
