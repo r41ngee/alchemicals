@@ -62,14 +62,14 @@ class Compound:
                 out.append([elem_list[i], index_list[i]])
 
             return out
-
-        self.elements: list[Element, int] = __transform_to_elements__(elements)
+        
+        self.elementsDicted = elements
+        self.elementsTupled: list[Element, int] = __transform_to_elements__(elements)
 
     def getMolarMass(self) -> int:
         mass = 0
-
-        for i in self.elements:
-            mass += int(round(i['element'].atomic_mass)) * int(i['index'])
+        for i in self.elementsTupled:
+            mass += Element.getElement(i[0]).atomic_mass * i[1]
 
         return mass
     
@@ -78,3 +78,10 @@ class Compound:
         Возвращает объект ``Compound`` по формуле.
         '''
         return Compound(parse_formula(formula))
+    
+    def getMassFraction(self, element_lit: str):
+        '''
+        Возвращает массовую долю элемента в соединении
+        '''
+
+        return float(round((Element.getElement(element_lit).atomic_mass * self.elementsDicted[element_lit]) / self.getMolarMass(), 4))
