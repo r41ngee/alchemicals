@@ -79,9 +79,15 @@ class Compound:
         '''
         return Compound(parse_formula(formula))
     
-    def getMassFraction(self, element_lit: str):
+    def getMassFraction(self, element_lit: str, return_type: Literal['percentage', 'float'] = 'float'):
         '''
         Возвращает массовую долю элемента в соединении
         '''
-
-        return float(round((Element.getElement(element_lit).atomic_mass * self.elementsDicted[element_lit]) / self.getMolecularMass(), 4))
+        if return_type == 'percentage':
+            return f'{float(round((Element.getElement(element_lit).atomic_mass * self.elementsDicted[element_lit]) / self.getMolecularMass(), 4)) * 100}%'
+        
+        elif return_type == 'float':
+            return float(round((Element.getElement(element_lit).atomic_mass * self.elementsDicted[element_lit]) / self.getMolecularMass(), 4))
+        
+        else:
+            raise Exception(f'Incorrect return type: {return_type}')

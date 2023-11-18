@@ -14,8 +14,3 @@ def writeElement() -> elemental.Element:
 
     inputField = gui.enterbox(msg=message, title=windowTitle)
     return elemental.Element.getElement(inputField)
-
-compound = writeCompound()
-element_lit = writeElement().literal
-
-print(compound.getMassFraction(element_lit))
