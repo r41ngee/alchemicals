@@ -1,4 +1,3 @@
-import elemental
 import interface
 import easygui as gui
 
