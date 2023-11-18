@@ -3,494 +3,871 @@
         "atomic_mass": 1.0079,
         "atomic_number": 1,
         "period": 1,
-        "virtualGroup": 7,
         "group": 1,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0412\u043e\u0434\u043e\u0440\u043e\u0434"
     },
     "He": {
-        "__comment": "TO_FIX",
         "atomic_mass": 4.0026,
         "atomic_number": 2,
         "period": 1,
-        "virtualGroup": null,
         "group": 18,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0413\u0435\u043b\u0438\u0439"
     },
     "Li": {
-        "__comment": "TO_FIX",
         "atomic_mass": 6.94,
         "atomic_number": 3,
         "period": 2,
-        "virtualGroup": null,
         "group": 1,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041b\u0438\u0442\u0438\u0439"
     },
     "Be": {
-        "__comment": "TO_FIX",
         "atomic_mass": 9.0122,
         "atomic_number": 4,
         "period": 2,
-        "virtualGroup": null,
         "group": 2,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0411\u0435\u0440\u0438\u043b\u043b\u0438\u0439"
     },
     "B": {
-        "__comment": "TO_FIX",
         "atomic_mass": 10.81,
         "atomic_number": 5,
         "period": 2,
-        "virtualGroup": null,
         "group": 13,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0411\u043e\u0440"
     },
     "C": {
-        "__comment": "TO_FIX",
         "atomic_mass": 12.011,
         "atomic_number": 6,
         "period": 2,
-        "virtualGroup": null,
         "group": 14,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0423\u0433\u043b\u0435\u0440\u043e\u0434"
     },
     "N": {
-        "__comment": "TO_FIX",
         "atomic_mass": 14.007,
         "atomic_number": 7,
         "period": 2,
-        "virtualGroup": null,
         "group": 15,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0410\u0437\u043e\u0442"
     },
     "O": {
-        "__comment": "TO_FIX",
         "atomic_mass": 15.999,
         "atomic_number": 8,
         "period": 2,
-        "virtualGroup": null,
         "group": 16,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041a\u0438\u0441\u043b\u043e\u0440\u043e\u0434"
     },
     "F": {
-        "__comment": "TO_FIX",
         "atomic_mass": 18.998,
         "atomic_number": 9,
         "period": 2,
-        "virtualGroup": null,
         "group": 17,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0424\u0442\u043e\u0440"
     },
     "Ne": {
-        "__comment": "TO_FIX",
         "atomic_mass": 20.1797,
         "atomic_number": 10,
         "period": 2,
-        "virtualGroup": null,
         "group": 18,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041d\u0435\u043e\u043d"
     },
     "Na": {
-        "__comment": "TO_FIX",
         "atomic_mass": 22.98976928,
         "atomic_number": 11,
         "period": 3,
-        "virtualGroup": null,
         "group": 1,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041d\u0430\u0442\u0440\u0438\u0439"
     },
     "Mg": {
-        "__comment": "TO_FIX",
         "atomic_mass": 24.305,
         "atomic_number": 12,
         "period": 3,
-        "virtualGroup": null,
         "group": 2,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041c\u0430\u0433\u043d\u0438\u0439"
     },
     "Al": {
-        "__comment": "TO_FIX",
         "atomic_mass": 26.9815386,
         "atomic_number": 13,
         "period": 3,
-        "virtualGroup": null,
         "group": 13,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0410\u043b\u044e\u043c\u0438\u043d\u0438\u0439"
     },
     "Si": {
-        "__comment": "TO_FIX",
         "atomic_mass": 28.085,
         "atomic_number": 14,
         "period": 3,
-        "virtualGroup": null,
         "group": 14,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041a\u0440\u0435\u043c\u043d\u0438\u0439"
     },
     "P": {
-        "__comment": "TO_FIX",
         "atomic_mass": 30.973761998,
         "atomic_number": 15,
         "period": 3,
-        "virtualGroup": null,
         "group": 15,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0424\u043e\u0441\u0444\u043e\u0440"
     },
     "S": {
-        "__comment": "TO_FIX",
         "atomic_mass": 32.06,
         "atomic_number": 16,
         "period": 3,
-        "virtualGroup": null,
         "group": 16,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0421\u0435\u0440\u0430"
     },
     "Cl": {
-        "__comment": "TO_FIX",
         "atomic_mass": 35.45,
         "atomic_number": 17,
         "period": 3,
-        "virtualGroup": null,
         "group": 17,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0425\u043b\u043e\u0440"
     },
     "Ar": {
-        "__comment": "TO_FIX",
         "atomic_mass": 39.948,
         "atomic_number": 18,
         "period": 3,
-        "virtualGroup": null,
         "group": 18,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0410\u0440\u0433\u043e\u043d"
     },
     "K": {
-        "__comment": "TO_FIX",
         "atomic_mass": 39.0983,
         "atomic_number": 19,
         "period": 4,
-        "virtualGroup": null,
         "group": 1,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041a\u0430\u043b\u0438\u0439"
     },
     "Ca": {
-        "__comment": "TO_FIX",
         "atomic_mass": 40.078,
         "atomic_number": 20,
         "period": 4,
-        "virtualGroup": null,
         "group": 2,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041a\u0430\u043b\u044c\u0446\u0438\u0439"
     },
     "Sc": {
-        "__comment": "TO_FIX",
         "atomic_mass": 44.955908,
         "atomic_number": 21,
         "period": 4,
-        "virtualGroup": null,
         "group": 3,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0421\u043a\u0430\u043d\u0434\u0438\u0439"
     },
     "Ti": {
-        "__comment": "TO_FIX",
         "atomic_mass": 47.867,
         "atomic_number": 22,
         "period": 4,
-        "virtualGroup": null,
         "group": 4,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0422\u0438\u0442\u0430\u043d"
     },
     "V": {
-        "__comment": "TO_FIX",
         "atomic_mass": 50.9415,
         "atomic_number": 23,
         "period": 4,
-        "virtualGroup": null,
         "group": 5,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0412\u0430\u043d\u0430\u0434\u0438\u0439"
     },
     "Cr": {
-        "__comment": "TO_FIX",
         "atomic_mass": 51.9961,
         "atomic_number": 24,
         "period": 4,
-        "virtualGroup": null,
         "group": 6,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0425\u0440\u043e\u043c"
     },
     "Mn": {
-        "__comment": "TO_FIX",
         "atomic_mass": 54.938044,
         "atomic_number": 25,
         "period": 4,
-        "virtualGroup": null,
         "group": 7,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u041c\u0430\u0440\u0433\u0430\u043d\u0435\u0446"
     },
     "Fe": {
-        "__comment": "TO_FIX",
         "atomic_mass": 55.845,
         "atomic_number": 26,
         "period": 4,
-        "virtualGroup": null,
         "group": 8,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0416\u0435\u043b\u0435\u0437\u043e"
+    },
+    "Co": {
+        "atomic_mass": 58.933,
+        "atomic_number": 27,
+        "period": 4,
+        "subgroup": "B",
+        "rusName": "\u041a\u043e\u0431\u0430\u043b\u044c\u0442"
     },
     "Ni": {
-        "__comment": "TO_FIX",
         "atomic_mass": 58.6934,
         "atomic_number": 28,
         "period": 4,
-        "virtualGroup": null,
         "group": 10,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u041d\u0438\u043a\u0435\u043b\u044c"
     },
     "Cu": {
-        "__comment": "TO_FIX",
         "atomic_mass": 63.546,
         "atomic_number": 29,
         "period": 4,
-        "virtualGroup": null,
         "group": 11,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u041c\u0435\u0434\u044c"
     },
     "Zn": {
-        "__comment": "TO_FIX",
         "atomic_mass": 65.38,
         "atomic_number": 30,
         "period": 4,
-        "virtualGroup": null,
         "group": 12,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0426\u0438\u043d\u043a"
     },
     "Ga": {
-        "__comment": "TO_FIX",
         "atomic_mass": 69.723,
         "atomic_number": 31,
         "period": 4,
-        "virtualGroup": null,
         "group": 13,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0413\u0430\u043b\u043b\u0438\u0439"
     },
     "Ge": {
-        "__comment": "TO_FIX",
         "atomic_mass": 72.63,
         "atomic_number": 32,
         "period": 4,
-        "virtualGroup": null,
         "group": 14,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0439"
     },
     "As": {
-        "__comment": "TO_FIX",
-        "atomic_mass": 74.92160,
+        "atomic_mass": 74.9216,
         "atomic_number": 33,
         "period": 4,
-        "virtualGroup": null,
         "group": 15,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0439"
     },
     "Se": {
-        "__comment": "TO_FIX",
         "atomic_mass": 78.96,
         "atomic_number": 34,
         "period": 4,
-        "virtualGroup": null,
         "group": 16,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0421\u0435\u043b\u0435\u043d"
     },
     "Br": {
-        "__comment": "TO_FIX",
         "atomic_mass": 79.904,
         "atomic_number": 35,
         "period": 4,
-        "virtualGroup": null,
         "group": 17,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0411\u0440\u043e\u043c"
     },
     "Kr": {
-        "__comment": "TO_FIX",
         "atomic_mass": 83.798,
         "atomic_number": 36,
         "period": 4,
-        "virtualGroup": null,
         "group": 18,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041a\u0440\u0438\u043f\u0442\u043e\u043d"
     },
     "Rb": {
-        "__comment": "TO_FIX",
         "atomic_mass": 85.4678,
         "atomic_number": 37,
         "period": 5,
-        "virtualGroup": null,
         "group": 1,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0420\u0443\u0431\u0438\u0434\u0438\u0439"
     },
     "Sr": {
-        "__comment": "TO_FIX",
         "atomic_mass": 87.62,
         "atomic_number": 38,
         "period": 5,
-        "virtualGroup": null,
         "group": 2,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0421\u0442\u0440\u043e\u043d\u0446\u0438\u0439"
     },
     "Y": {
-        "__comment": "TO_FIX",
         "atomic_mass": 88.90584,
         "atomic_number": 39,
         "period": 5,
-        "virtualGroup": null,
         "group": 3,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0418\u0442\u0442\u0440\u0438\u0439"
     },
     "Zr": {
-        "__comment": "TO_FIX",
         "atomic_mass": 91.224,
         "atomic_number": 40,
         "period": 5,
-        "virtualGroup": null,
         "group": 4,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0426\u0438\u0440\u043a\u043e\u043d\u0438\u0439"
     },
     "Nb": {
-        "__comment": "TO_FIX",
         "atomic_mass": 92.90637,
         "atomic_number": 41,
         "period": 5,
-        "virtualGroup": null,
         "group": 5,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u041d\u0438\u043e\u0431\u0438\u0439"
     },
     "Mo": {
-        "__comment": "TO_FIX",
         "atomic_mass": 95.95,
         "atomic_number": 42,
         "period": 5,
-        "virtualGroup": null,
         "group": 6,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u041c\u043e\u043b\u0438\u0431\u0434\u0435\u043d"
     },
     "Tc": {
-        "__comment": "TO_FIX",
         "atomic_mass": 98,
         "atomic_number": 43,
         "period": 5,
-        "virtualGroup": null,
         "group": 7,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0422\u0435\u0445\u043d\u0435\u0446\u0438\u0439"
     },
     "Ru": {
-        "__comment": "TO_FIX",
         "atomic_mass": 101.07,
         "atomic_number": 44,
         "period": 5,
-        "virtualGroup": null,
         "group": 8,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0422\u0435\u0445\u043d\u0435\u0446\u0438\u0439"
     },
     "Rh": {
-        "__comment": "TO_FIX",
         "atomic_mass": 102.90549,
         "atomic_number": 45,
         "period": 5,
-        "virtualGroup": null,
         "group": 9,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0420\u043e\u0434\u0438\u0439"
     },
     "Pd": {
-        "__comment": "TO_FIX",
         "atomic_mass": 106.42,
         "atomic_number": 46,
         "period": 5,
-        "virtualGroup": null,
         "group": 10,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u041f\u0430\u043b\u043b\u0430\u0434\u0438\u0439"
     },
     "Ag": {
-        "__comment": "TO_FIX",
         "atomic_mass": 107.8682,
         "atomic_number": 47,
         "period": 5,
-        "virtualGroup": null,
         "group": 11,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u0421\u0435\u0440\u0435\u0431\u0440\u043e"
     },
     "Cd": {
-        "__comment": "TO_FIX",
         "atomic_mass": 112.414,
         "atomic_number": 48,
         "period": 5,
-        "virtualGroup": null,
         "group": 12,
-        "subgroup": "B"
+        "subgroup": "B",
+        "rusName": "\u041a\u0430\u0434\u043c\u0438\u0439"
     },
     "In": {
-        "__comment": "TO_FIX",
         "atomic_mass": 114.818,
         "atomic_number": 49,
         "period": 5,
-        "virtualGroup": null,
         "group": 13,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0418\u043d\u0434\u0438\u0439"
     },
     "Sn": {
-        "__comment": "TO_FIX",
         "atomic_mass": 118.71,
         "atomic_number": 50,
         "period": 5,
-        "virtualGroup": null,
         "group": 14,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041e\u043b\u043e\u0432\u043e"
     },
     "Sb": {
-        "__comment": "TO_FIX",
         "atomic_mass": 121.76,
         "atomic_number": 51,
         "period": 5,
-        "virtualGroup": null,
         "group": 15,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0421\u0443\u0440\u044c\u043c\u0430"
     },
     "Te": {
-        "__comment": "TO_FIX",
-        "atomic_mass": 127.60,
+        "atomic_mass": 127.6,
         "atomic_number": 52,
         "period": 5,
-        "virtualGroup": null,
         "group": 16,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0422\u0435\u043b\u043b\u0443\u0440"
     },
     "I": {
-        "__comment": "TO_FIX",
         "atomic_mass": 126.90447,
         "atomic_number": 53,
         "period": 5,
-        "virtualGroup": null,
         "group": 17,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0419\u043e\u0434"
     },
     "Xe": {
-        "__comment": "TO_FIX",
         "atomic_mass": 131.293,
         "atomic_number": 54,
         "period": 5,
-        "virtualGroup": null,
         "group": 18,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u041a\u0441\u0435\u043d\u043e\u043d"
     },
     "Cs": {
-        "__comment": "TO_FIX",
         "atomic_mass": 132.90545196,
         "atomic_number": 55,
         "period": 6,
-        "virtualGroup": null,
         "group": 1,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0426\u0435\u0437\u0438\u0439"
     },
     "Ba": {
-        "__comment": "TO_FIX",
         "atomic_mass": 137.327,
         "atomic_number": 56,
         "period": 6,
-        "virtualGroup": null,
         "group": 2,
-        "subgroup": "A"
+        "subgroup": "A",
+        "rusName": "\u0411\u0430\u0440\u0438\u0439"
+    },
+    "La": {
+        "atomic_mass": 138.90547,
+        "atomic_number": 57,
+        "period": 6,
+        "group": 3,
+        "subgroup": "B",
+        "rusName": "\u041b\u0430\u043d\u0442\u0430\u043d"
+    },
+    "Ce": {
+        "atomic_mass": 140.116,
+        "atomic_number": 58,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0426\u0435\u0440\u0438\u0439"
+    },
+    "Pr": {
+        "atomic_mass": 140.90766,
+        "atomic_number": 59,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u041f\u0440\u0430\u0437\u0435\u043e\u0434\u0438\u043c"
+    },
+    "Nd": {
+        "atomic_mass": 144.242,
+        "atomic_number": 60,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u041d\u0435\u043e\u0434\u0438\u043c"
+    },
+    "Pm": {
+        "atomic_mass": 145,
+        "atomic_number": 61,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u041f\u0440\u043e\u043c\u0435\u0442\u0438\u0439"
+    },
+    "Sm": {
+        "atomic_mass": 150.36,
+        "atomic_number": 62,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0421\u0430\u043c\u0430\u0440\u0438\u0439"
+    },
+    "Eu": {
+        "atomic_mass": 151.964,
+        "atomic_number": 63,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0415\u0432\u0440\u043e\u043f\u0438\u0439"
+    },
+    "Gd": {
+        "atomic_mass": 157.25,
+        "atomic_number": 64,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0413\u0430\u0434\u043e\u043b\u0438\u043d\u0438\u0439"
+    },
+    "Tb": {
+        "atomic_mass": 158.92535,
+        "atomic_number": 65,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0422\u0435\u0440\u0431\u0438\u0439"
+    },
+    "Dy": {
+        "atomic_mass": 162.5,
+        "atomic_number": 66,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0414\u0438\u0441\u043f\u0440\u043e\u0437\u0438\u0439"
+    },
+    "Ho": {
+        "atomic_mass": 164.93033,
+        "atomic_number": 67,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0414\u0438\u0441\u043f\u0440\u043e\u0437\u0438\u0439"
+    },
+    "Er": {
+        "atomic_mass": 167.259,
+        "atomic_number": 68,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u042d\u0440\u0431\u0438\u0439"
+    },
+    "Tm": {
+        "atomic_mass": 168.93422,
+        "atomic_number": 69,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0422\u0443\u043b\u0438\u0439"
+    },
+    "Yb": {
+        "atomic_mass": 173.04,
+        "atomic_number": 70,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u0418\u0442\u0442\u0435\u0440\u0431\u0438\u0439"
+    },
+    "Lu": {
+        "atomic_mass": 174.967,
+        "atomic_number": 71,
+        "period": 6,
+        "group": "Lanthanides",
+        "subgroup": "B",
+        "rusName": "\u041b\u044e\u0442\u0435\u0446\u0438\u0439"
+    },
+    "Hf": {
+        "atomic_mass": 178.49,
+        "atomic_number": 72,
+        "period": 6,
+        "group": 4,
+        "subgroup": "B",
+        "rusName": "\u0413\u0430\u0444\u043d\u0438\u0439"
+    },
+    "Ta": {
+        "atomic_mass": 180.94788,
+        "atomic_number": 73,
+        "period": 6,
+        "group": 5,
+        "subgroup": "B",
+        "rusName": "\u0422\u0430\u043d\u0442\u0430\u043b"
+    },
+    "W": {
+        "atomic_mass": 183.84,
+        "atomic_number": 74,
+        "period": 6,
+        "group": 6,
+        "subgroup": "B",
+        "rusName": "\u0412\u043e\u043b\u044c\u0444\u0440\u0430\u043c"
+    },
+    "Re": {
+        "atomic_mass": 186.207,
+        "atomic_number": 75,
+        "period": 6,
+        "group": 7,
+        "subgroup": "B",
+        "rusName": "\u0420\u0435\u043d\u0438\u0439"
+    },
+    "Os": {
+        "atomic_mass": 190.23,
+        "atomic_number": 76,
+        "period": 6,
+        "group": 8,
+        "subgroup": "B",
+        "rusName": "\u041e\u0441\u043c\u0438\u0439"
+    },
+    "Ir": {
+        "atomic_mass": 192.217,
+        "atomic_number": 77,
+        "period": 6,
+        "group": 9,
+        "subgroup": "B",
+        "rusName": "\u0418\u0440\u0438\u0434\u0438\u0439"
+    },
+    "Pt": {
+        "atomic_mass": 195.084,
+        "atomic_number": 78,
+        "period": 6,
+        "group": 10,
+        "subgroup": "B",
+        "rusName": "\u041f\u043b\u0430\u0442\u0438\u043d\u0430"
+    },
+    "Au": {
+        "atomic_mass": 196.966569,
+        "atomic_number": 79,
+        "period": 6,
+        "group": 11,
+        "subgroup": "B",
+        "rusName": "\u0417\u043e\u043b\u043e\u0442\u043e"
+    },
+    "Hg": {
+        "atomic_mass": 200.592,
+        "atomic_number": 80,
+        "period": 6,
+        "group": 12,
+        "subgroup": "B",
+        "rusName": "\u0420\u0442\u0443\u0442\u044c"
+    },
+    "Tl": {
+        "atomic_mass": 204.38,
+        "atomic_number": 81,
+        "period": 6,
+        "group": 13,
+        "subgroup": "A",
+        "rusName": "\u0422\u0430\u043b\u043b\u0438\u0439"
+    },
+    "Pb": {
+        "atomic_mass": 207.2,
+        "atomic_number": 82,
+        "period": 6,
+        "group": 14,
+        "subgroup": "A",
+        "rusName": "\u0421\u0432\u0438\u043d\u0435\u0446"
+    },
+    "Bi": {
+        "atomic_mass": 208.9804,
+        "atomic_number": 83,
+        "period": 6,
+        "group": 15,
+        "subgroup": "A",
+        "rusName": "\u0412\u0438\u0441\u043c\u0443\u0442"
+    },
+    "Po": {
+        "atomic_mass": 209,
+        "atomic_number": 84,
+        "period": 6,
+        "group": 16,
+        "subgroup": "A",
+        "rusName": "\u041f\u043e\u043b\u043e\u043d\u0438\u0439"
+    },
+    "At": {
+        "atomic_mass": 210,
+        "atomic_number": 85,
+        "period": 6,
+        "group": 17,
+        "subgroup": "A",
+        "rusName": "\u0410\u0441\u0442\u0430\u0442"
+    },
+    "Rn": {
+        "atomic_mass": 222,
+        "atomic_number": 86,
+        "period": 6,
+        "group": 18,
+        "subgroup": "A",
+        "rusName": "\u0420\u0430\u0434\u043e\u043d"
+    },
+    "Fr": {
+        "atomic_mass": 223,
+        "atomic_number": 87,
+        "period": 7,
+        "group": 1,
+        "subgroup": "A",
+        "rusName": "\u0424\u0440\u0430\u043d\u0446\u0438\u0439"
+    },
+    "Ra": {
+        "atomic_mass": 226,
+        "atomic_number": 88,
+        "period": 7,
+        "group": 2,
+        "subgroup": "A",
+        "rusName": "\u0420\u0430\u0434\u0438\u0439"
+    },
+    "Ac": {
+        "atomic_mass": 227,
+        "atomic_number": 89,
+        "period": 7,
+        "group": 3,
+        "subgroup": "B",
+        "rusName": "\u0420\u0430\u0434\u0438\u0439"
+    },
+    "Th": {
+        "atomic_mass": 232.03806,
+        "atomic_number": 90,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u0422\u043e\u0440\u0438\u0439"
+    },
+    "Pa": {
+        "atomic_mass": 231.03588,
+        "atomic_number": 91,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041f\u0440\u043e\u0430\u043a\u0442\u0438\u043d\u0438\u0439"
+    },
+    "U": {
+        "atomic_mass": 238.02891,
+        "atomic_number": 92,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u0423\u0440\u0430\u043d"
+    },
+    "Np": {
+        "atomic_mass": 237,
+        "atomic_number": 93,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041d\u0435\u043f\u0442\u0443\u043d\u0438\u0439"
+    },
+    "Pu": {
+        "atomic_mass": 244,
+        "atomic_number": 94,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041f\u043b\u0443\u0442\u043e\u043d\u0438\u0439"
+    },
+    "Am": {
+        "atomic_mass": 243,
+        "atomic_number": 95,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u0410\u043c\u0435\u0440\u0438\u0446\u0438\u0439"
+    },
+    "Cm": {
+        "atomic_mass": 247,
+        "atomic_number": 96,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041a\u044e\u0440\u0438\u0439"
+    },
+    "Bk": {
+        "atomic_mass": 247,
+        "atomic_number": 97,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041a\u044e\u0440\u0438\u0439"
+    },
+    "Cf": {
+        "atomic_mass": 251,
+        "atomic_number": 98,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0439"
+    },
+    "Es": {
+        "atomic_mass": 252,
+        "atomic_number": 99,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u042d\u043d\u0448\u0442\u0435\u0439\u043d\u0438\u0439"
+    },
+    "Fm": {
+        "atomic_mass": 257,
+        "atomic_number": 100,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u042d\u043d\u0448\u0442\u0435\u0439\u043d\u0438\u0439"
+    },
+    "Md": {
+        "atomic_mass": 258,
+        "atomic_number": 101,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041c\u0435\u043d\u0434\u0435\u043b\u0435\u0432\u0438\u0439"
+    },
+    "No": {
+        "atomic_mass": 259,
+        "atomic_number": 102,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041d\u043e\u0431\u0435\u043b\u0438\u0439"
+    },
+    "Lr": {
+        "atomic_mass": 266,
+        "atomic_number": 103,
+        "period": 7,
+        "group": "Actinides",
+        "subgroup": "B",
+        "rusName": "\u041d\u043e\u0431\u0435\u043b\u0438\u0439"
+    },
+    "Rf": {
+        "atomic_mass": 267,
+        "atomic_number": 104,
+        "period": 7,
+        "group": 4,
+        "subgroup": "B",
+        "rusName": "\u0420\u0435\u0437\u0435\u0440\u0444\u043e\u0440\u0434\u0438\u0439"
+    },
+    "Db": {
+        "atomic_mass": 270,
+        "atomic_number": 105,
+        "period": 7,
+        "group": 5,
+        "subgroup": "B",
+        "rusName": "\u0414\u0443\u0431\u043d\u0438\u0439"
+    },
+    "Sg": {
+        "atomic_mass": 271,
+        "atomic_number": 106,
+        "period": 7,
+        "group": 6,
+        "subgroup": "B",
+        "rusName": "\u0421\u0438\u0431\u043e\u0440\u0433\u0438\u0439"
+    },
+    "Bh": {
+        "atomic_mass": 270,
+        "atomic_number": 107,
+        "period": 7,
+        "group": 7,
+        "subgroup": "B",
+        "rusName": "\u0411\u043e\u0440\u0438\u0439"
+    },
+    "Hs": {
+        "atomic_mass": 277,
+        "atomic_number": 108,
+        "period": 7,
+        "group": 8,
+        "subgroup": "B",
+        "rusName": "\u0425\u0430\u0441\u0441\u0438\u0439"
+    },
+    "Mt": {
+        "atomic_mass": 276,
+        "atomic_number": 109,
+        "period": 7,
+        "group": 9,
+        "subgroup": "B",
+        "rusName": "\u0425\u0430\u0441\u0441\u0438\u0439"
     }
 }
